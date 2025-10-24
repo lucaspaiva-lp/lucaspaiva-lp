@@ -40,6 +40,6 @@
 - **Email:** lucaspaiva-lp@proton.me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaspaiva-lp/)
-[![Linktree](https://img.shields.io/badge/Linktree-30C03B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/lucaspaiva-lp)
+[![Linktree](https://img.shields.io/badge/Linktree-30C03B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/lucaspaiva_lp)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaspaiva-lp@proton.me)
 [![CV](https://img.shields.io/badge/CV-6e5494?style=for-the-badge&logo=read-the-docs&logoColor=white)](http://lattes.cnpq.br/4978921915627567)
