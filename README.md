@@ -22,11 +22,12 @@
 
 ## 🚀 Featured Projects
 
-### 📚 Academic System
-- API for managing **students, courses, and subjects**.
-- Features: complex SQL queries, grade calculations, absence management.
-- Stack: **FastAPI + PostgreSQL**
-- [Click here to view the project](#)
+🛍️ E-commerce Frontend
+- Web interface with home page, product listing, shopping cart, and basic admin dashboard.
+- Modular SPA (Single Page Application) architecture using HTML, CSS, and JavaScript.
+- Supports individual product view and simulated purchase flow.
+- Backend and payment integration planned for future development.
+- [Click here to view the project](https://github.com/lucaspaiva-lp/ecommerce-frontend)
 
 ### 💻 SQL Queries Dashboard
 - Project with **complex queries and aggregations** in PostgreSQL.
