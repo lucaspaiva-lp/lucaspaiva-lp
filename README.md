@@ -1,5 +1,5 @@
-[![PT-BR](https://img.shields.io/badge/lang-PT--BR-green?style=for-the-badge&logo=google-translate)](https://github.com/lucaspaiva-lp/lucaspaiva-lp)
-[![EN](https://img.shields.io/badge/lang-EN-blue?style=for-the-badge&logo=google-translate)](https://github.com/lucaspaiva-lp/lucaspaiva-lp-en)
+[![PT-BR](https://img.shields.io/badge/lang-PT--BR-green?style=for-the-badge&logo=google-translate)](https://github.com/lucaspaiva-lp/lucaspaiva-lp-ptbr)
+[![EN](https://img.shields.io/badge/lang-EN-blue?style=for-the-badge&logo=google-translate)](https://github.com/lucaspaiva-lp/lucaspaiva-lp)
 
 ## 🛠 Technologies & Skills
 
