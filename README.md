@@ -21,8 +21,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ## 🚀 Featured Projects
-
-🛍️ E-commerce Modular SPA
+### 🛍️ E-commerce Modular SPA
 - Web interface with home page, product listing, shopping cart, and basic admin dashboard.
 - Modular SPA (Single Page Application) architecture using HTML, CSS, and JavaScript.
 - Supports individual product view and simulated purchase flow.
