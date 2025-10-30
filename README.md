@@ -27,7 +27,7 @@
 - Modular SPA (Single Page Application) architecture using HTML, CSS, and JavaScript.
 - Supports individual product view and simulated purchase flow.
 - Backend and payment integration planned for future development.
-- [Click here to view the project](https://github.com/lucaspaiva-lp/ecommerce-frontend)
+- [Click here to view the project](https://github.com/lucaspaiva-lp/ecommerce-spa)
 
 ### 💻 SQL Queries Dashboard
 - Project with **complex queries and aggregations** in PostgreSQL.
