@@ -22,7 +22,7 @@
 
 ## 🚀 Featured Projects
 
-🛍️ E-commerce Frontend
+🛍️ E-commerce Modular SPA
 - Web interface with home page, product listing, shopping cart, and basic admin dashboard.
 - Modular SPA (Single Page Application) architecture using HTML, CSS, and JavaScript.
 - Supports individual product view and simulated purchase flow.
