@@ -21,18 +21,22 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ## 🚀 Featured Projects
+
 ### 🛍️ E-commerce Modular SPA
+
 - Web interface with home page, product listing, shopping cart, and basic admin dashboard.
 - Modular SPA (Single Page Application) architecture using HTML, CSS, and JavaScript.
 - Supports individual product view and simulated purchase flow.
 - Backend and payment integration planned for future development.
 - [Click here to view the project](https://github.com/lucaspaiva-lp/ecommerce-spa)
 
-### 💻 SQL Queries Dashboard
-- Project with **complex queries and aggregations** in PostgreSQL.
-- Demonstrates **data modeling and advanced filtering skills**.
-- Stack: PostgreSQL, pgAdmin4
-- [Click here to view the project](#)
+### 💻 RPG Textual — Console RPG Game
+
+- Project featuring a **fully playable turn-based RPG** .
+- Includes **character creation, missions, inventory, combat system and rewards** .
+- Designed with **clean architecture, modular structure and data encapsulation** .
+- Stack: Python, JSON (save system), CLI
+- **[Click here to view the project](https://github.com/lucaspaiva-lp/rpg-textual)**
 
 ## 📫 Contact
 
