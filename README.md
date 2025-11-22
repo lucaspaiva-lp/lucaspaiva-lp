@@ -32,10 +32,10 @@
 
 ### 💻 RPG Textual — Console RPG Game
 
-- Project featuring a **fully playable turn-based RPG** .
-- Includes **character creation, missions, inventory, combat system and rewards** .
-- Designed with **clean architecture, modular structure and data encapsulation** .
-- Stack: Python, JSON (save system), CLI
+- Project featuring a **fully playable turn-based RPG**.
+- Includes **character creation, missions, inventory, combat system and rewards**.
+- Designed with **clean architecture, modular structure and data encapsulation**.
+- Stack: Python, JSON (save system), CLI.
 - **[Click here to view the project](https://github.com/lucaspaiva-lp/rpg-textual)**
 
 ## 📫 Contact
