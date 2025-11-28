@@ -22,13 +22,16 @@
 
 ## 🚀 Featured Projects
 
-### 🛍️ E-commerce Modular SPA
+### 🛍️ Full Stack E-commerce
 
-- Web interface with home page, product listing, shopping cart, and basic admin dashboard.
-- Modular SPA (Single Page Application) architecture using HTML, CSS, and JavaScript.
-- Supports individual product view and simulated purchase flow.
-- Backend and payment integration planned for future development.
-- [Click here to view the project](https://github.com/lucaspaiva-lp/ecommerce-spa)
+- Complete platform with fully integrated frontend and backend.
+- Frontend: HTML, CSS, and JavaScript with partial SPA structure and simulated routing.
+- Backend: FastAPI + Tortoise ORM, JWT authentication, email service, and full CRUD operations.
+- Shopping cart, checkout flow, order history, and admin management panel.
+- PostgreSQL database with all services orchestrated via Docker Compose.
+- Image upload support, user validation, and secure request handling.
+- Includes full documentation and a demonstration video.
+- **[Click here to view the project](https://github.com/RodrigoDevBack/e-commerce)**
 
 ### 💻 RPG Textual — Console RPG Game
 
