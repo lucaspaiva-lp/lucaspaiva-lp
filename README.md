@@ -25,8 +25,8 @@
 ### 🛍️ Full Stack E-commerce
 
 - Complete platform with fully integrated frontend and backend.
-- Frontend: HTML, CSS, and JavaScript with partial SPA structure and simulated routing.
-- Backend: FastAPI + Tortoise ORM, JWT authentication, email service, and full CRUD operations.
+- **Frontend**: HTML, CSS, and JavaScript with partial SPA structure and simulated routing.
+- **Backend**: FastAPI + Tortoise ORM, JWT authentication, email service, and full CRUD operations.
 - Shopping cart, checkout flow, order history, and admin management panel.
 - PostgreSQL database with all services orchestrated via Docker Compose.
 - Image upload support, user validation, and secure request handling.
