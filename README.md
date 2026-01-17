@@ -21,8 +21,7 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![pgAdmin4](https://img.shields.io/badge/pgAdmin4-313131?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Some projects include database and architecture diagrams created using tools
-such as **DrawSQL** as part of the documentation and design validation process.
+Some projects include database and architecture diagrams created with industry-standard diagramming tools **(e.g., DrawSQL, draw.io)** as part of the documentation and design validation process.
 
 ## 📜 Certifications
 
