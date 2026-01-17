@@ -20,6 +20,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+## 📜 Certifications
+
+Curated professional certifications related to software development and backend engineering.  
+See full documentation and evidence here:  
+👉 **[Professional Certifications Repository](https://github.com/lucaspaiva-lp/professional-certifications)**
+
 ## 🚀 Featured Projects
 
 ### 🛍️ Full Stack E-commerce
