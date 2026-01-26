@@ -46,8 +46,8 @@ See full documentation and evidence here:
 > 🔖 **Stable reference version:**  
 > For technical evaluation, see **Release v1.0.0** (consolidated and validated snapshot).
 
-- **[Click here to view the project](https://github.com/lucaspaiva-lp/backend-clinica-api)**
-- **[Click here to view the stable release (v1.0.0)](https://github.com/lucaspaiva-lp/backend-clinica-api/releases/tag/v1.0.0)**
+- **[View repository](https://github.com/lucaspaiva-lp/backend-clinica-api)**
+- **[View stable release (v1.0.0)](https://github.com/lucaspaiva-lp/backend-clinica-api/releases/tag/v1.0.0)**
 
 ### 🛍️ Full Stack E-commerce
 
@@ -55,19 +55,19 @@ See full documentation and evidence here:
 - **Backend**: FastAPI + Tortoise ORM, JWT authentication, email service, and full CRUD operations.
 - PostgreSQL database orchestrated via Docker Compose.
 - Includes full documentation and a demonstration video.
-- **[Click here to view the project](https://github.com/RodrigoDevBack/e-commerce)**
+- **[View repository](https://github.com/RodrigoDevBack/e-commerce)**
 
 ### 💻 RPG Textual — Console RPG Game
 
 - Fully playable **turn-based RPG**.
 - Focus on **OOP, encapsulation, and modular design**.
 - Stack: Python, JSON, CLI.
-- **[Click here to view the project](https://github.com/lucaspaiva-lp/rpg-textual)**
+- **[View repository](https://github.com/lucaspaiva-lp/rpg-textual)**
 
 
 ## 📫 Contact
 
-- **LinkedIn:** [Click here for my LinkedIn](https://www.linkedin.com/in/lucaspaiva-lp/)
+- **LinkedIn:** [View profile](https://www.linkedin.com/in/lucaspaiva-lp/)
 - **Email:** lucaspaiva-lp@proton.me  
 
 See full resume here:
