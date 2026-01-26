@@ -31,24 +31,39 @@ See full documentation and evidence here:
 
 ## 🚀 Featured Projects
 
+### 🏥 Backend Clinic API — Clean Architecture & Validation
+
+- Backend-focused system designed with **layered architecture and domain separation**.
+- Strong emphasis on **business rules, validation, and relational integrity**.
+- Stack: **Python (3.13.11), FastAPI, PostgreSQL, SQLAlchemy (2.0.45)**.
+- Includes:
+  - Technical dossier
+  - Architectural decisions
+  - CRUD validation documents
+  - ER and architecture diagrams
+- Designed as a **portfolio-grade backend system**, not a tutorial project.
+
+> 🔖 **Stable reference version:**  
+> For technical evaluation, see **Release v1.0.0** (consolidated and validated snapshot).
+
+- **[Click here to view the project](https://github.com/lucaspaiva-lp/backend-clinica-api)**
+- **[Click here to view the stable release (v1.0.0)](https://github.com/lucaspaiva-lp/backend-clinica-api/releases/tag/v1.0.0)**
+
 ### 🛍️ Full Stack E-commerce
 
 - Complete platform with fully integrated frontend and backend.
-- **Frontend**: HTML, CSS, and JavaScript with partial SPA structure and simulated routing.
 - **Backend**: FastAPI + Tortoise ORM, JWT authentication, email service, and full CRUD operations.
-- Shopping cart, checkout flow, order history, and admin management panel.
-- PostgreSQL database with all services orchestrated via Docker Compose.
-- Image upload support, user validation, and secure request handling.
+- PostgreSQL database orchestrated via Docker Compose.
 - Includes full documentation and a demonstration video.
 - **[Click here to view the project](https://github.com/RodrigoDevBack/e-commerce)**
 
 ### 💻 RPG Textual — Console RPG Game
 
-- Project featuring a **fully playable turn-based RPG**.
-- Includes **character creation, missions, inventory, combat system and rewards**.
-- Designed with **clean architecture, modular structure and data encapsulation**.
-- Stack: Python, JSON (save system), CLI.
+- Fully playable **turn-based RPG**.
+- Focus on **OOP, encapsulation, and modular design**.
+- Stack: Python, JSON, CLI.
 - **[Click here to view the project](https://github.com/lucaspaiva-lp/rpg-textual)**
+
 
 ## 📫 Contact
 
