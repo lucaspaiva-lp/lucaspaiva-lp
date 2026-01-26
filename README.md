@@ -47,7 +47,7 @@ See full documentation and evidence here:
 > For technical evaluation, see **Release v1.0.0** (consolidated and validated snapshot).
 
 - **[View repository](https://github.com/lucaspaiva-lp/backend-clinica-api)**
-- **[View stable release (v1.0.0)](https://github.com/lucaspaiva-lp/backend-clinica-api/releases/tag/v1.0.0)**
+- **[View stable release (v1.0.1)](https://github.com/lucaspaiva-lp/backend-clinica-api/releases/tag/v1.0.1)**
 
 ### 🛍️ Full Stack E-commerce
 
