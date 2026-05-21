@@ -1,5 +1,5 @@
-[![PT-BR](https://img.shields.io/badge/lang-PT--BR-green?style=for-the-badge&logo=google-translate)](https://github.com/lucaspaiva-lp/lucaspaiva-lp/tree/main/profile-br/README.md)
-[![EN](https://img.shields.io/badge/lang-EN-blue?style=for-the-badge&logo=google-translate)](https://github.com/lucaspaiva-lp/lucaspaiva-lp)
+[![PT-BR](https://img.shields.io/badge/lang-PT--BR-green?style=for-the-badge&logo=google-translate)](/profile-br/README.md)
+[![EN](https://img.shields.io/badge/lang-EN-blue?style=for-the-badge&logo=google-translate)](/README.md)
 
 ## 🛠 Core Backend Stack
 
@@ -19,7 +19,7 @@
 
 | Project | Stack / Technologies | Focus | Links |
 | :--- | :--- | :--- | :--- |
-| **FiveLib** | `FastAPI` `Pydantic` `Next.js` `TypeScript` `PostgreSQL` | Centralized platform for technical academic documentation, featuring user libraries, private link management, and custom support ticket infrastructure. | [Repository](https://github.com/fivelibx/fivelib) |
+| [**FiveLib**](https://fivelib.vercel.app) | `FastAPI` `Pydantic` `Next.js` `TypeScript` `PostgreSQL` | Centralized platform for technical academic documentation, featuring user libraries, private link management, and custom support ticket infrastructure. | [Repository](https://github.com/fivelibx/fivelib) |
 | **Backend Clinic API** | `Python` `FastAPI` `SQLAlchemy` `PostgreSQL` | Layered architecture, business rules validation, technical dossier, ER & architecture diagrams. | [Repository](https://github.com/lucaspaiva-lp/backend-clinica-api) |
 | **RPG Textual** | `Python` `JSON` `CLI` | Console-based turn-based RPG game focusing on OOP concepts, encapsulation, and modular design. | [Repository](https://github.com/lucaspaiva-lp/rpg-textual) |
 | **E-commerce** | `FastAPI` `Tortoise ORM` `JWT` `Docker` `PostgreSQL` | Full platform integration, authentication, email service, and environment orchestration. | [Repository](https://github.com/RodrigoDevBack/e-commerce) |
