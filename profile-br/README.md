@@ -19,7 +19,7 @@
 
 | Projeto | Stack / Tecnologias | Foco | Links |
 | :--- | :--- | :--- | :--- |
-| [**FiveLib**](https://fivelib.vercel.app) | `FastAPI` `Pydantic` `Next.js` `TypeScript` `PostgreSQL` | Plataforma centralizada para documentação acadêmica técnica, apresentando bibliotecas de usuários, gerenciamento de links privados e infraestrutura personalizada de tickets de suporte. | [Repositório](https://github.com/fivelibx/fivelib) |
+| <a href="https://fivelib.vercel.app" target="_blank" rel="noopener noreferrer">**Fivelib**</a> | `FastAPI` `Pydantic` `Next.js` `TypeScript` `PostgreSQL` | Plataforma centralizada para documentação acadêmica técnica, apresentando bibliotecas de usuários, gerenciamento de links privados e infraestrutura personalizada de tickets de suporte. | [Repositório](https://github.com/fivelibx/fivelib) |
 | **Backend Clinic API** | `Python` `FastAPI` `SQLAlchemy` `PostgreSQL` | Arquitetura em camadas, validação de regras de negócio, dossiê técnico, diagramas de arquitetura e ER. | [Repositório](https://github.com/lucaspaiva-lp/backend-clinica-api) |
 | **RPG Textual** | `Python` `JSON` `CLI` | Jogo de RPG em turnos baseado no console focado em conceitos de POO, encapsulamento e design modular. | [Repositório](https://github.com/lucaspaiva-lp/rpg-textual) |
 | **E-commerce** | `FastAPI` `Tortoise ORM` `JWT` `Docker Compose` `PostgreSQL` | Integração completa da plataforma, autenticação, serviço de e-mail e orquestração de ambiente. | [Repositório](https://github.com/RodrigoDevBack/e-commerce) |
