@@ -14,14 +14,15 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## ⚙️ Tooling
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![pgAdmin4](https://img.shields.io/badge/pgAdmin4-313131?style=for-the-badge&logo=postgresql&logoColor=white)
+## 🚀 Featured Projects
 
-Some projects include database and architecture diagrams created with industry-standard diagramming tools **(e.g., DrawSQL, draw.io)** as part of the documentation and design validation process.
+| Project | Stack / Technologies | Focus | Links |
+| :--- | :--- | :--- | :--- |
+| **FiveLib** <br> `Python` `FastAPI` `Next.js` `Docker` | FastAPI, Pydantic, Next.js, TypeScript, PostgreSQL | Centralized platform for technical academic documentation, featuring user libraries, private link management, and custom support ticket infrastructure. | [Repository](https://github.com/fivelibx/fivelib) |
+| **Backend Clinic API** <br> `Python` `FastAPI` `PostgreSQL` | Python (3.13), FastAPI, SQLAlchemy, PostgreSQL | Layered architecture, business rules validation, technical dossier, ER & architecture diagrams. | [Repository](https://github.com/lucaspaiva-lp/backend-clinica-api) |
+| **RPG Textual** <br> `Python` `CLI` | Python, JSON, CLI | Console-based turn-based RPG game focusing on OOP concepts, encapsulation, and modular design. | [Repository](https://github.com/lucaspaiva-lp/rpg-textual) |
+| **E-commerce** <br> `Python` `FastAPI` `Docker` | FastAPI, Tortoise ORM, JWT, Docker Compose, PostgreSQL | Full platform integration, authentication, email service, and environment orchestration. | [Repository](https://github.com/RodrigoDevBack/e-commerce) |
 
 ## 📜 Certifications
 
@@ -29,46 +30,10 @@ Curated professional certifications related to software development and backend 
 See full documentation and evidence here:  
 👉 **[Professional Certifications Repository](https://github.com/lucaspaiva-lp/professional-certifications)**
 
-## 🚀 Featured Projects
-
-### 🏥 Backend Clinic API — Clean Architecture & Validation
-
-- Backend-focused system designed with **layered architecture and domain separation**.
-- Strong emphasis on **business rules, validation, and relational integrity**.
-- Stack: **Python (3.13.11), FastAPI, PostgreSQL, SQLAlchemy (2.0.45)**.
-- Includes:
-  - Technical dossier
-  - Architectural decisions
-  - CRUD validation documents
-  - ER and architecture diagrams
-- Designed as a **portfolio-grade backend system**, not a tutorial project.
-
-> 🔖 **Stable reference version:**  
-> For technical evaluation, see **Release v1.0.0** (consolidated and validated snapshot).
-
-- **[View repository](https://github.com/lucaspaiva-lp/backend-clinica-api)**
-- **[View stable release (v1.0.1)](https://github.com/lucaspaiva-lp/backend-clinica-api/releases/tag/v1.0.1)**
-
-### 🛍️ Full Stack E-commerce
-
-- Complete platform with fully integrated frontend and backend.
-- **Backend**: FastAPI + Tortoise ORM, JWT authentication, email service, and full CRUD operations.
-- PostgreSQL database orchestrated via Docker Compose.
-- Includes full documentation and a demonstration video.
-- **[View repository](https://github.com/RodrigoDevBack/e-commerce)**
-
-### 💻 RPG Textual — Console RPG Game
-
-- Fully playable **turn-based RPG**.
-- Focus on **OOP, encapsulation, and modular design**.
-- Stack: Python, JSON, CLI.
-- **[View repository](https://github.com/lucaspaiva-lp/rpg-textual)**
-
-
 ## 📫 Contact
 
-- **LinkedIn:** [View profile](https://www.linkedin.com/in/lucaspaiva-lp/)
-- **Email:** lucaspaiva-lp@proton.me  
+**LinkedIn:** [View profile](https://www.linkedin.com/in/lucaspaiva-lp/)  
+**Email:** lucaspaiva-lp@outlook.com
 
 See full resume here:
 [View Resume](/cv/Lucas_Paiva_Backend_Developer.pdf)
