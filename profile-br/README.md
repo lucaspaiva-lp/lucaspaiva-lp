@@ -20,6 +20,7 @@
 | Projeto | Stack / Tecnologias | Foco | Links |
 | :--- | :--- | :--- | :--- |
 | [**FiveLib**](https://fivelib.vercel.app) | `FastAPI` `Pydantic` `Next.js` `TypeScript` `PostgreSQL` | Plataforma centralizada para documentação acadêmica técnica, apresentando bibliotecas de usuários, gerenciamento de links privados e infraestrutura personalizada de tickets de suporte. | [Repositório](https://github.com/fivelibx/fivelib) |
+| **Análise de Impacto RS** <br> `Python` `PySpark` `Pandas` `Matplotlib` `Big Data` | FastAPI, Pydantic, Next.js, TypeScript, PostgreSQL | Pipeline de engenharia de dados analisando a correlação entre dados de precipitação (INMET) e saldo de empregos (CAGED) durante eventos climáticos no Rio Grande do Sul. | <a href="https://github.com/lucaspaiva-lp/rs-impact" target="_blank" rel="noopener noreferrer">Repositório</a> |
 | **Backend Clinic API** | `Python` `FastAPI` `SQLAlchemy` `PostgreSQL` | Arquitetura em camadas, validação de regras de negócio, dossiê técnico, diagramas de arquitetura e ER. | [Repositório](https://github.com/lucaspaiva-lp/backend-clinica-api) |
 | **RPG Textual** | `Python` `JSON` `CLI` | Jogo de RPG em turnos baseado no console focado em conceitos de POO, encapsulamento e design modular. | [Repositório](https://github.com/lucaspaiva-lp/rpg-textual) |
 | **E-commerce** | `FastAPI` `Tortoise ORM` `JWT` `Docker Compose` `PostgreSQL` | Integração completa da plataforma, autenticação, serviço de e-mail e orquestração de ambiente. | [Repositório](https://github.com/RodrigoDevBack/e-commerce) |

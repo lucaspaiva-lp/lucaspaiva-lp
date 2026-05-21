@@ -20,6 +20,7 @@
 | Project | Stack / Technologies | Focus | Links |
 | :--- | :--- | :--- | :--- |
 | [**FiveLib**](https://fivelib.vercel.app) | `FastAPI` `Pydantic` `Next.js` `TypeScript` `PostgreSQL` | Centralized platform for technical academic documentation, featuring user libraries, private link management, and custom support ticket infrastructure. | [Repository](https://github.com/fivelibx/fivelib) |
+| **RS Impact Analysis** | `Python` `PySpark` `Pandas` `Matplotlib` `Big Data` | Data engineering pipeline analyzing the correlation between precipitation data (INMET) and employment balances (CAGED) during climate events in Rio Grande do Sul. | [Repository](https://github.com/lucaspaiva-lp/rs-impact) |
 | **Backend Clinic API** | `Python` `FastAPI` `SQLAlchemy` `PostgreSQL` | Layered architecture, business rules validation, technical dossier, ER & architecture diagrams. | [Repository](https://github.com/lucaspaiva-lp/backend-clinica-api) |
 | **RPG Textual** | `Python` `JSON` `CLI` | Console-based turn-based RPG game focusing on OOP concepts, encapsulation, and modular design. | [Repository](https://github.com/lucaspaiva-lp/rpg-textual) |
 | **E-commerce** | `FastAPI` `Tortoise ORM` `JWT` `Docker` `PostgreSQL` | Full platform integration, authentication, email service, and environment orchestration. | [Repository](https://github.com/RodrigoDevBack/e-commerce) |
