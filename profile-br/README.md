@@ -37,7 +37,7 @@ Veja a documentação completa e as evidências aqui:
 **E-mail:** lucaspaiva-lp@outlook.com
 
 Veja o currículo completo aqui:
-[Visualizar Currículo](/cv/Lucas_Paiva_Backend_Developer.pdf)
+[Visualizar Currículo](/cv/(PT-BR)Lucas_Paiva_Backend_Developer.pdf)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaspaiva-lp/)
 [![Linktree](https://img.shields.io/badge/Linktree-30C03B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/lucaspaiva_lp)
