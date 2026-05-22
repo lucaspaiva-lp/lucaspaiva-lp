@@ -41,5 +41,4 @@ See full resume here:
 [View Resume](/cv/(EN)Lucas_Paiva_Backend_Developer.pdf)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaspaiva-lp/)
-[![Linktree](https://img.shields.io/badge/Linktree-30C03B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/lucaspaiva_lp)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaspaiva-lp@proton.me)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaspaiva-lp@outlook.com)
