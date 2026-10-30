@@ -14,17 +14,33 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+## 💼 Experiência Profissional
+
+### Coordenador Executivo de Tecnologia da Informação (CETI)
+**Secretaria Municipal da Segurança e Cidadania (SSM)** | *Setor Público / Governança Municipal*
+
+- **Liderança Técnica & Governança de Infraestrutura:** Direcionamento das operações de TI, gestão de identidades (Active Directory / 1Doc), infraestrutura de rede e monitoramento contínuo de plataformas abrangendo a Secretaria Sede, PROCON, Guarda Municipal (GMA) e Junta de Serviço Militar (JSM).
+
+- **Engenharia de Software & Soluções Web:** Concepção, arquitetura e manutenção de sistemas e APIs web personalizadas utilizando Python (FastAPI), Next.js, Node.js, PostgreSQL e orquestração com Docker.
+
+- **Encarregado Setorial de Proteção de Dados (DPO / LGPD):** Atuação como Encarregado Setorial liderando a governança de dados, conformidade com a LGPD (Lei Federal nº 13.709/2018) e coordenação do Comitê Executivo da Política Municipal de Proteção de Dados Pessoais (*Portaria nº 059/2026*).
+
+- **Gestão de Contratos de TI & Licitações:** Gestor formal de contratos encarregado do acompanhamento da execução, SLAs técnicos e serviços de infraestrutura da Rede Integrada do Município de Aracaju (RIMA) (*Portaria nº 070/2026*).
+
+- **Nomeações Oficiais:** Designações registradas e publicadas em Diário Oficial (*Decreto CCE-01*, *Portaria 059/2026*, *Portaria 070/2026*).
+
+> 📌 *Para conferir o histórico profissional completo e cargos anteriores, acesse meu [perfil no LinkedIn](https://www.linkedin.com/in/lucaspaiva-lp/).*
 
 ## 🚀 Projetos em Destaque
 
 | Projeto | Stack / Tecnologias | Foco | Links |
 | :--- | :--- | :--- | :--- |
 | [**FiveLib**](https://fivelib.vercel.app) | `FastAPI` `Pydantic` `Next.js` `TypeScript` `PostgreSQL` | Plataforma centralizada para documentação acadêmica técnica, apresentando bibliotecas de usuários, gerenciamento de links privados e infraestrutura personalizada de tickets de suporte. | [Repositório](https://github.com/fivelibx/fivelib) |
-| **Análise de Impacto RS** <br> `Python` `PySpark` `Pandas` `Matplotlib` `Big Data` | FastAPI, Pydantic, Next.js, TypeScript, PostgreSQL | Pipeline de engenharia de dados analisando a correlação entre dados de precipitação (INMET) e saldo de empregos (CAGED) durante eventos climáticos no Rio Grande do Sul. | <a href="https://github.com/lucaspaiva-lp/rs-impact" target="_blank" rel="noopener noreferrer">Repositório</a> |
-| [**Portfolio**](https://lucaspaiva-lp.vercel.app) | `Next.js` `TypeScript` `Tailwind` `GraphQL` | Dashboard pessoal de engenharia com rastreamento de contribuições do GitHub em tempo real e pipeline de deploy automatizado. | [Repository](https://github.com/lucaspaiva-lp/my-website) |
+| **Análise de Impacto RS** | `Python` `PySpark` `Pandas` `Matplotlib` `Big Data` | Pipeline de engenharia de dados analisando a correlação entre dados de precipitação (INMET) e saldo de empregos (CAGED) durante eventos climáticos no Rio Grande do Sul. | [Repositório](https://github.com/lucaspaiva-lp/rs-impact) |
+| [**Portfolio**](https://lucaspaiva-lp.vercel.app) | `Next.js` `TypeScript` `Tailwind` `GraphQL` | Dashboard pessoal de engenharia com rastreamento de contribuições do GitHub em tempo real e pipeline de deploy automatizado. | [Repositório](https://github.com/lucaspaiva-lp/my-website) |
 | **Backend Clinic API** | `Python` `FastAPI` `SQLAlchemy` `PostgreSQL` | Arquitetura em camadas, validação de regras de negócio, dossiê técnico, diagramas de arquitetura e ER. | [Repositório](https://github.com/lucaspaiva-lp/backend-clinica-api) |
 | **RPG Textual** | `Python` `JSON` `CLI` | Jogo de RPG em turnos baseado no console focado em conceitos de POO, encapsulamento e design modular. | [Repositório](https://github.com/lucaspaiva-lp/rpg-textual) |
-| **E-commerce** | `FastAPI` `Tortoise ORM` `JWT` `Docker Compose` `PostgreSQL` | Integração completa da plataforma, autenticação, serviço de e-mail e orquestração de ambiente. | [Repositório](https://github.com/RodrigoDevBack/e-commerce) |
+| **E-commerce** | `FastAPI` `Tortoise ORM` `JWT` `Docker` `PostgreSQL` | Integração completa da plataforma, autenticação, serviço de e-mail e orquestração de ambiente. | [Repositório](https://github.com/RodrigoDevBack/e-commerce) |
 
 ## 📜 Certificações
 
