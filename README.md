@@ -14,6 +14,18 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+## 💼 Professional Experience
+
+### Executive Coordinator of Information Technology (CETI)
+**Secretaria Municipal da Segurança e Cidadania (SSM)** | *Public Sector / Municipal Governance*
+
+* **Technical Leadership & Infrastructure Governance:** Directing IT operations, identity management (Active Directory / 1Doc), network infrastructure, and continuous platform monitoring across headquarters, PROCON, Municipal Guard (GMA), and Military Draft Board (JSM).
+* **Software Engineering & Custom Web Solutions:** Conception, architecture, and maintenance of custom web applications and APIs using Python (FastAPI), Next.js, Node.js, PostgreSQL, and Docker containerization.
+* **Data Privacy Officer (DPO / LGPD):** Sectoral DPO leading data governance, privacy compliance (Federal Law No. 13.709/2018), and coordinating the Executive Committee of Personal Data Protection (*Portaria No. 059/2026*).
+* **IT Procurement & Contract Management:** Formal contract manager overseeing execution, technical SLAs, and infrastructure services for the Municipal Integrated Network (RIMA) (*Portaria No. 070/2026*).
+* **Official Appointments:** Publicly registered via Official Gazette decrees (*Decreto CCE-01*, *Portaria 059/2026*, *Portaria 070/2026*).
+
+> 📌 *For a complete work history and previous positions, check out my [LinkedIn profile](https://www.linkedin.com/in/lucaspaiva-lp/).*
 
 ## 🚀 Featured Projects
 
